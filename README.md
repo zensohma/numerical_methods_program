@@ -37,7 +37,12 @@ This project demonstrates:
 ---'
 
 ## Available Function to use
-
+- sin(x)
+- cos(x)
+- tan(x)
+- exp(x)
+- log(x)
+- sqrt(x)
 ## Technologies Used
 
 - Python
